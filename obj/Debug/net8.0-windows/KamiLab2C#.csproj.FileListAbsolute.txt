@@ -1,0 +1,7 @@
+C:\Users\tutsk\source\repos\KamiLab2C#\obj\Debug\net8.0-windows\KamiLab2C#.csproj.AssemblyReference.cache
+C:\Users\tutsk\source\repos\KamiLab2C#\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\tutsk\source\repos\KamiLab2C#\obj\Debug\net8.0-windows\Views\ProductDialog.baml
+C:\Users\tutsk\source\repos\KamiLab2C#\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\tutsk\source\repos\KamiLab2C#\obj\Debug\net8.0-windows\Views\ProductDialog.g.cs
+C:\Users\tutsk\source\repos\KamiLab2C#\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\tutsk\source\repos\KamiLab2C#\obj\Debug\net8.0-windows\KamiLab2C#_MarkupCompile.cache

@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tutsk\\source\\repos\\KamiLab2C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64C054AC-718E-487A-B35C-FB184482A7A7}|KamiLab2C#.csproj|c:\\users\\tutsk\\source\\repos\\kamilab2c#\\views\\categorydialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64C054AC-718E-487A-B35C-FB184482A7A7}|KamiLab2C#.csproj|solutionrelative:views\\categorydialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C054AC-718E-487A-B35C-FB184482A7A7}|KamiLab2C#.csproj|c:\\users\\tutsk\\source\\repos\\kamilab2c#\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C054AC-718E-487A-B35C-FB184482A7A7}|KamiLab2C#.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C054AC-718E-487A-B35C-FB184482A7A7}|KamiLab2C#.csproj|c:\\users\\tutsk\\source\\repos\\kamilab2c#\\kamilab2c#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64C054AC-718E-487A-B35C-FB184482A7A7}|KamiLab2C#.csproj|solutionrelative:kamilab2c#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C054AC-718E-487A-B35C-FB184482A7A7}|KamiLab2C#.csproj|c:\\users\\tutsk\\source\\repos\\kamilab2c#\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C054AC-718E-487A-B35C-FB184482A7A7}|KamiLab2C#.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C054AC-718E-487A-B35C-FB184482A7A7}|KamiLab2C#.csproj|c:\\users\\tutsk\\source\\repos\\kamilab2c#\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64C054AC-718E-487A-B35C-FB184482A7A7}|KamiLab2C#.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\tutsk\\source\\repos\\KamiLab2C#\\Views\\CategoryDialog.xaml",
+              "RelativeDocumentMoniker": "Views\\CategoryDialog.xaml",
+              "ToolTip": "C:\\Users\\tutsk\\source\\repos\\KamiLab2C#\\Views\\CategoryDialog.xaml",
+              "RelativeToolTip": "Views\\CategoryDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-24T18:17:59.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\tutsk\\source\\repos\\KamiLab2C#\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\tutsk\\source\\repos\\KamiLab2C#\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T18:17:03.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KamiLab2C#",
+              "DocumentMoniker": "C:\\Users\\tutsk\\source\\repos\\KamiLab2C#\\KamiLab2C#.csproj",
+              "RelativeDocumentMoniker": "KamiLab2C#.csproj",
+              "ToolTip": "C:\\Users\\tutsk\\source\\repos\\KamiLab2C#\\KamiLab2C#.csproj",
+              "RelativeToolTip": "KamiLab2C#.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-24T18:11:23.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tutsk\\source\\repos\\KamiLab2C#\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\tutsk\\source\\repos\\KamiLab2C#\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T16:24:25.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\tutsk\\source\\repos\\KamiLab2C#\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\tutsk\\source\\repos\\KamiLab2C#\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-24T16:24:13.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
